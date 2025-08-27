@@ -23,9 +23,10 @@ I scored 17/20 in total. I managed to get full points on the Computer Architectu
 
 I spent a total of 177 hours on this course. I attended most of the hoorcolleges (lectures), but only a few of the werkcolleges (practical sessions)—mainly the first ones.
 
-![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/1.jpg)
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/1.jpg) | ![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/3.jpg) | ![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/2.jpg) |
 
-![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/2.jpg)
 
-![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/3.jpg)
+
 
