@@ -1,2 +1,7 @@
-# My UAntwerpen Informatica Archive
-Here you will find my summaries of my informatic bachelor's at UA, which is in Dutch but everything here will be in English, since everyone can understand it, and it's easier for me and for international students whose primary language is not Dutch.
+# My UAntwerpen CS Journey
+Here you will find all my summaries from my Informatics Bachelor's at UA. Although the program is in Dutch, everything here will be in English, since it’s easier for me and also more accessible for international students whose primary language is not Dutch (I’m one of them).
+
+I created this repository on GitHub to share my summaries, projects, study methods, personal experiences with the courses, and anything else that might help new students or make this journey a little bit easier.
+
+If you have any questions about anything, feel free to email me at: abdellah.elmoussaoui@student.uantwerpen.be
+
