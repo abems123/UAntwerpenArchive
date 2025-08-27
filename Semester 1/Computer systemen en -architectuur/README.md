@@ -19,13 +19,13 @@ If you have any questions, you can always contact the assistants or the professo
 # How I Did in This Course
 I scored 17/20 in total. I managed to get full points on the Computer Architecture assignments because they were really fun. I also did well in the Computer Systems part. The practical exam was quite easy, and the theory exam tends to be the same each year—you’ll probably receive the questions and answers from classmates in your class group chat.
 
-![Relative](../github-pics/4.png)
+![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/4.png)
 
 I spent a total of 177 hours on this course. I attended most of the hoorcolleges (lectures), but only a few of the werkcolleges (practical sessions)—mainly the first ones.
 
-![Relative](../github-pics/1.jpg)
+![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/1.jpg)
 
-![Relative](../github-pics/2.jpg)
+![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/2.jpg)
 
-![Relative](../github-pics/3.jpg)
+![Relative](/Semester%201/Computer%20systemen%20en%20-architectuur/github-pics/3.jpg)
 
