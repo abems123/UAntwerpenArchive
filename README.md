@@ -5,3 +5,4 @@ I created this repository on GitHub to share my summaries, projects, study metho
 
 If you have any questions about anything, feel free to email me at: abdellah.elmoussaoui@student.uantwerpen.be
 
+I’m currently in my sophomore year, so this repository is most useful for first-year students. But don’t worry—I’ll keep updating it throughout the year, promise! :)
